@@ -5,7 +5,7 @@
 
 - javascript <br>
 
-url: (추후 공개)
+url: https://github.com/Andante23/about-language/tree/master/javascript
 
 ***
 
