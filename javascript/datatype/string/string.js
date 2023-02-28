@@ -20,7 +20,7 @@ let resultstring = 'an' + 'dan' + 'te';  // andante
 
 let result = str + str1;
 
-// 표현식 ${} 를 이용한 문자열 합치기
+// 표현식 ${} 를 이용한 문자열 합치기 (ECMA6부터 추가된 기능)
 
 // let result = ${str} + ${str1};  backtick
 
